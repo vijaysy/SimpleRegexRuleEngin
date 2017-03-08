@@ -1,0 +1,14 @@
+
+*.class
+*.jar
+*.war
+*.ear
+*.idea
+.classpath
+.project
+*.iml
+*.ipr
+*.iws
+*.DS_Store
+
+
